@@ -1,5 +1,6 @@
 
 def levitation_quiz
+  puts 
 counter = 1
  
 while counter <= 5
