@@ -1,6 +1,7 @@
 
 def levitation_quiz
   puts "What is the spell that enacts levitation?"
+  answer = gets.chomp
 counter = 1
  
 while counter <= 5
